@@ -1,13 +1,25 @@
 <h1 align="center">Hi everybody, I'm <a href="#" target="_blank">Bahyt</a> 
 <img src="https://github.com/bahyt1999/bahyt1999/blob/main/wave-hello.gif" height="38" /></h1>
 <h3 align="center">Frontend developer</h3>
-<h1>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜</h1>
+
+<h2>𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝓉𝑜𝑜𝓁𝓈</h2>
+
+
 ![Python](https://img.shields.io/badge/-PYTHON-7c64ba??style=for-the-badge&logo=python)
 ![Djnago](https://img.shields.io/badge/-DJANGO-7c64ba??style=for-the-badge&logo=django)
-![JS](https://img.shields.io/badge/-JavaScript-7c64ba??style=for-the-badge&logo=javascript)
-![Oracle](https://img.shields.io/badge/-ORACLE-7c64ba??style=for-the-badge&logo=oracle)
-![Oracle](https://img.shields.io/badge/-POSTGRESQL-7c64ba??style=for-the-badge&logo=postgresql)
+![JS](https://img.shields.io/badge/-Bootstrap-7c64ba??style=for-the-badge&logo=Bootstrapt)
 ![JS](https://img.shields.io/badge/-HTML-7c64ba??style=for-the-badge&logo=HyperTextMarkupLanguage)
 ![css](https://img.shields.io/badge/-CSS-7c64ba??style=for-the-badge&logo=CSS)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahyt1999)](https://github.com/anuraghazra/github-readme-stats)
-<h1>𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎</h1>
+
+
+<h2>𝐹𝑜𝓁𝓁𝑜𝓌 𝓂𝑒</h2>
+
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-7c64ba?style=for-the-badge&logo=instagram)](https://www.instagram.com/beybitovna_b/)
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-7c64ba?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/бақыт-череева-406a6b25a)
+[![TELEGRAMM](https://img.shields.io/badge/-TELEGRAMM-7c64ba?style=for-the-badge&logo=telegram)](https://t.me/bahyt_1234)
+
+<h2>𝐿𝑒𝑒𝓉𝒞𝑜𝒹𝑒</h2>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=beybitovna_b1234N&theme=dark)](https://github.com/bahyt1999/leetcode-stats)
