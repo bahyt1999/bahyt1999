@@ -22,4 +22,8 @@
 
 <h2>𝐿𝑒𝑒𝓉𝒞𝑜𝒹𝑒</h2>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=beybitovna_b1234N&theme=dark)](https://github.com/bahyt1999/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=beybitovna_b1234&theme=dark)](https://github.com/bahyt1999/leetcode-stats)
+
+<h3>Contributes this year <h3>
+  
+![snake gif](https://github.com/bahyt1999/bahyt1999/blob/main/github-contribution-grid-snake.gif)
