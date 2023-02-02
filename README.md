@@ -13,11 +13,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahyt1999)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <h2>𝐹𝑜𝓁𝓁𝑜𝓌 𝓂𝑒</h2>
 
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-7c64ba?style=for-the-badge&logo=instagram)](https://www.instagram.com/beybitovna_b/)
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-7c64ba?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/бақыт-череева-406a6b25a)
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-7c64ba?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D0%B1%D0%B0%D2%9B%D1%8B%D1%82-%D1%87%D0%B5%D1%80%D0%B5%D0%B5%D0%B2%D0%B0-406a6b25a/)
 [![TELEGRAMM](https://img.shields.io/badge/-TELEGRAMM-7c64ba?style=for-the-badge&logo=telegram)](https://t.me/bahyt_1234)
 
 <h2>𝐿𝑒𝑒𝓉𝒞𝑜𝒹𝑒</h2>
