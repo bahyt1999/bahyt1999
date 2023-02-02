@@ -1,2 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Bahyt</a></h1>
-<img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" height="32"/></h1>
+<h1 align="center">Hi everybody, I'm <a href="#" target="_blank">Bahyt</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend developer</h3>
